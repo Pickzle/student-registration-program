@@ -16,7 +16,7 @@ dosen | dosen123
 admin | admin321
 
 Cara Menjalankan Program : 
-1. Pertama Buka Terlebih Dahulu xampp kalian, lalu import file sql yang sudah kami buat
+1. Pertama Buka Terlebih Dahulu xampp kalian, lalu import file sql yang sudah kami buat di PHPMyAdmin
 2. Buka code kami menggunakan netbeans
 3. Jalankan terlebih dahulu login
 4. silahkan login menggunakan mahasiswa, dosen atau admin
